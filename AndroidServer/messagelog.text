@@ -1,0 +1,17 @@
+1439332567237: Msg: PROBE: reason code#2001
+1439332757563: Msg: PROBE: reason code#2001
+1439333142652: Msg: PROBE: reason code#2001
+1439333160372: Msg: PROBE: reason code#2001
+1439425678764: Msg: PTTFREC: reason code#102
+1439425785886: Msg: PTTFREC: reason code#51
+1439425861261: Msg: PTTFREC: reason code#51
+1439425930668: Msg: PTTFREC: reason code#102
+1439425948077: Msg: PTTFTRANS: reason code#103
+1439425951539: Msg: PTTFREC: reason code#102
+1440178851932: Msg: this is a message for demo purpose
+1440181655522: Msg: PTTREC: reason code#102
+1440181660996: Msg: PTTTRANS: reason code#103
+1440181913061: Msg: PTTREC: reason code#102
+1440181918488: Msg: PTTTRANS: reason code#103
+1440182637837: Msg: this is a message
+1440182748122: Msg: Send a text message
